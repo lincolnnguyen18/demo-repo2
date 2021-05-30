@@ -9,3 +9,4 @@ We added a super awesome feature!!!
 # Feature 2
 
 Again!
+Merge conflict!
