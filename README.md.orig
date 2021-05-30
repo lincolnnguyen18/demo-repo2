@@ -1,0 +1,17 @@
+# Demo 2
+
+Some text.
+
+# Feature
+
+We added a super awesome feature!!!
+
+# Feature 2
+
+Again!
+<<<<<<< HEAD
+Quick test~
+||||||| d4a4f38
+=======
+Merge conflict!
+>>>>>>> main
